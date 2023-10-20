@@ -9,6 +9,8 @@ data_ops_[number of initial jobs]_ [number of arrival jobs] .xlsx
 data_pts_[number of initial jobs]_ [number of arrival jobs] .xlsx
 Scenario[Scenario No.]_GanttChart_shopfloor_1.png
 Scenario[Scenario No.]_GanttChart_shopfloor_2.png
+![test](Scenario1\Scenario1_GanttChart_shopfloor_1.png)
+![2](Scenario1\Scenario1_GanttChart_shopfloor_2.png)
 
 
 In “data_arrival_[number of initial jobs]_[number of arrival jobs].xlsx” file, the data are stored as 
